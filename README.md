@@ -23,6 +23,8 @@ Excel document, was used to create a complete panel dashboard where we can find 
 and which is their star product. 
 All the information reveals important insights for decision-making regarding the future ot this store and I've created useful charts to measure the sellings. Next you can vizualiced some of 
 the most important scenarios.
+
+#### SELLINGS
 - Total sellings
 - Sellings by category
 - Top 10 cities by sellings
@@ -31,6 +33,26 @@ the most important scenarios.
 - Sellings during the time
   
   ![image](https://github.com/user-attachments/assets/80911874-5fce-4973-97b1-45896e612a31)
+
+#### PROFIT
+- Total profit
+- Profit by category
+- Top 10 cities by profit
+- Profit by ship mode
+- Sellings vs Profit by state
+- Profit during the time
+
+![image](https://github.com/user-attachments/assets/430ae3ef-ae5d-425b-9487-37e59a8c68a3)
+
+### MAP
+- Sum of profit
+- Sum of sales
+- Sum of quantity
+- Map by sellings bubble
+- Sellings by segment
+
+![image](https://github.com/user-attachments/assets/aa31341d-8fc7-4446-940e-c6446ae47c17)
+
 
 
 
