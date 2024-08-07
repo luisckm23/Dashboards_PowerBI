@@ -46,3 +46,17 @@ Finalmente en la Portada tenemos un gráfico de 'Línea del tiempo' en la que no
 Esta gráifica hace un recuento de ventas por fecha, es decir, cuanto vendimos en determinado día y cómo ha ido cambiando durante el tiempo.
 
 ## SUCURSALES
+
+Este informe nos detalla el comportamiento que están teniendo cada una de las tres sucursales:
+    - Chapultepec
+    - La estancia
+    - La paz
+
+Esta distribución se hace con la finalidad de poder tomar mejores acciones respecto a las ventas, ingresos y egresos.
+
+Para este panel se utilizó el gráfico de 'Multi-row card' y en los campos se asignaron las Sucursales, además de la suma de ventas totales de cada una de ellas.
+
+Por otro lado se utilizó también un gráifco de 'Map' en el que se agregó la columna direccioón de la tabla de hechos en el campo de Location; en el campo de Legend se usó la columna Sucursal; finalmente se utilizó el campo de Bubble Size con nuestra medida ya hecha de Ventas totales.
+Al estar agrupado por Sucursales nos da que cada burbuja tiene un tamaño distinto pues indica qué sucursal tiene un mayor o menor nivel de ventas. 
+
+En este mismo panel de Surcursales tenemos otra gráfica de 'Línea de tiempo', sin embargo en ella los datos los agrupoamos por Sucursal, lo que nos da un panorama más segmentado de cómo han ido las ventas totales a lo largo de tiempo en cada una de ellas. 
